@@ -59,6 +59,13 @@ Publisher(s): O'Reilly Media, Inc.
 ISBN: 9781491939369
 ```
 
+[Learning with Python 3 (RLE)](http://openbookproject.net/thinkcs/python/english3e/) by Peter Wentworth, Jeffrey Elkner, Allen B. Downey, and Chris Meyers.
+``` yml
+Title: Learning with Python 3 (RLE)
+Author(s): Peter Wentworth, Jeffrey Elkner, Allen B. Downey, and Chris Meyers
+Release date: October 2012
+```
+
 ## Grade Determination
 
 The items that student is responsible for this class is the following. Students will be graded according to this chart.
