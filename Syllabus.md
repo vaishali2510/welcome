@@ -92,7 +92,26 @@ Based on the [Grade Determination](#grade-determination), a final letter grade w
 
 ## Course Outline
 
-<!-- TODO: Fill this later -->
+During the term of this course, following materials will be covered. 
+
+| Week #  | Content Description                                                                                                                                                                                             | Assignments  |
+| ------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| Week 1  | Introduction to course, syllabus, student's preparation with tools, etc.                                                                                                                                        | Welcome      |
+| Week 2  | IDEs (Jupyter, iPython, VSCode, etc.) Environment setup, Test driven Development (TDD), Debugging, Unittesting with Python, Continuous Integration Tools, etc.                                                  |
+| Week 3  | Introduction to python. Learning python as general-purpose programming language. Section includes python syntax, functions, classes, inheritance, MRO, Python's GIL paradigm, object oriented programming, etc. | Assignment 1 |
+| Week 4  | Introduction to data manipulation tools, numpy.                                                                                                                                                                 | Assignment 2 |
+| Week 5  | Data manipulation tools, pandas part 1 - common pandas concepts, pandas as data manipulation tool.                                                                                                              | Assignment 3 |
+| Week 5  | Data manipulation tools, pandas part 2 - advanved use of pandas, performance improvements, etc.                                                                                                                 | Assignment 4 |
+| Week 6  | Midterm                                                                                                                                                                                                         |
+| Week 7  | Data visualization tools, matplotlib, seaborn, plotly, etc.                                                                                                                                                     | Assignment 5 |
+| Week 8  | Use of machine learning tools, scikit-learn                                                                                                                                                                     |
+| Week 9  | Use of advanced machine learning tools - keras, tensorflow                                                                                                                                                      |
+| Week 10 | Final Exam                                                                                                                                                                                                      |
+| Week 11 | Student Project Presentations                                                                                                                                                                                   |
+| Week 12 | Whats next? Use of containers in data science, model deployment, use of cloud systems, etc.                                                                                                                     |
+
+<sub> Above list is subject to change. </sub>
+
 
 ## Attendence Policy
 
@@ -119,5 +138,5 @@ I also certify that that in this course, the assignments I will be submitting wi
 
 | Student        |                                           | Instructor        |                                           |
 | -------------- | ----------------------------------------- | ----------------- | ----------------------------------------- |
-| Student's Name | ......................................... | Instructor's Name | .............Metin Senturk............... |
+| Student's Name | ......................................... | Instructor's Name | ......................................... |
 | Signature      | ......................................... | Signature         | ......................................... |
