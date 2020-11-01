@@ -101,6 +101,15 @@ We will also have an online interactive book for some assignments. Using [Runest
 
 <!-- Introducing students with branching, PRs, etc -->
 
+As part of some assignments and projects, we will have to collaborate on the same repository. To do this we will go over how to do this.
+
+``` py
+from greeter import greet
+
+# greets participants!
+greet.greet_people()
+```
+
 ### Grading
 
 <!-- Introductory grading example with python -->
