@@ -135,6 +135,8 @@ grade = calculate_letter_grade(
 print(grade)
 ```
 
+You can also run this script from command line through `python -c "import greeter; print(greeter.greet_people())"`.
+
 ## Todo List
 
 <!-- A list of items for student to follow -->
