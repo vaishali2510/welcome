@@ -110,6 +110,8 @@ from greeter import greet
 greet.greet_people()
 ```
 
+You will learn how to contribute on a team project, and using a [Pull Request](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request), we will merge our hardwork into a single repository.
+
 ### Grading
 
 <!-- Introductory grading example with python -->
