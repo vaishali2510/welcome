@@ -66,6 +66,12 @@ Author(s): Peter Wentworth, Jeffrey Elkner, Allen B. Downey, and Chris Meyers
 Release date: October 2012
 ```
 
+There will be more books from a project called [Runestone Interactive](https://runestone.academy/runestone/books/index). I have already created a class for us in this website with the class name as `DS-542`. What you have to do is the following:
+
+1. Register to the `Runestone Interactive` from their [website](https://runestone.academy/runestone/default/user/register). Follow their [tutorial](https://runestone.academy/runestone/static/instructorguide/Registration/registerYourself.html#registration-chap) if you have any issues.
+2. Enter the course name as `DS-542`.
+3. You should be registered to the class!
+
 ## Grade Determination
 
 The items that student is responsible for this class is the following. Students will be graded according to this chart.
