@@ -30,6 +30,8 @@ My recommendation is go over the following stuff.
 - Useful for your README.md files, [Github Flawored Markdown Cheat Sheet](https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf)
 - Protips from Data Scientist at GitHub, [Tips, tricks, hacks, and secrets from Alyson La](https://github.blog/2020-04-23-github-protips-tips-tricks-hacks-and-secrets-from-alyson-la/)
 - A simple git learning experience with a desktop app, [Git-it (Desktop App)](https://github.com/jlord/git-it-electron)
+- A set of tutorials, [Get Git Right by Atlassian](https://www.atlassian.com/git)
+- Overwhelmed by git command line, what about an app? [Sourcetree](https://www.sourcetreeapp.com/)
 
 ### Development Tools (IDEs)
 
