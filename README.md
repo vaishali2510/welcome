@@ -44,7 +44,9 @@ Install VSCode to your computer. Add the following extensions as well.
   - [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) to enable intellisense, environment management, etc.
   - [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf) for getting used to Markdown syntax.
   - [Live Code](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) to interact with each other.
-  
+
+Even tough are a lot of online resoources available to make the most out of VSCode, recently Microsoft introduced a new set of articles to [learn to code with Visual Studio Code](https://code.visualstudio.com/learn). **Utilize this** to get yourself familiar with VS Code and understand why tools like VS Code are much better than just a text editor.
+
 There are alternatives of course, you are welcome to use those as well. The point is an IDE will make your life much easier if you choose to use one!
 
 Alternatives
