@@ -39,6 +39,12 @@ My recommendation is go over the following stuff.
 
 My favorite, bittersweet tool, [Visual Studio Code](https://code.visualstudio.com/), use it and you'll love it!
 
+Install VSCode to your computer. Add the following extensions as well.
+  - [Pylance](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance) a new language server from Microsoft.
+  - [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) to enable intellisense, environment management, etc.
+  - [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf) for getting used to Markdown syntax.
+  - [Live Code](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) to interact with each other.
+  
 There are alternatives of course, you are welcome to use those as well. The point is an IDE will make your life much easier if you choose to use one!
 
 Alternatives
