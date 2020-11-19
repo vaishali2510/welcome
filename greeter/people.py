@@ -32,3 +32,16 @@ def get_metin_senturk() -> Person:
         educational_history=['Bilkent University', "Saint Peter's University"],
         skills=dict(python='*****', sql='**')
     )
+
+
+def some_other_person() -> Person:
+    """
+    Information on instructor. 
+    """
+    return Person(
+        name='zeynep',
+        lastname='senturk',
+        date_of_birth=date(1963, 8, 8),
+        educational_history='Bilkent University',
+        skills=dict(python='*', sql='**', laufter='*********')
+    )
