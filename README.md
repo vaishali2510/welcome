@@ -152,12 +152,12 @@ You can also run this script from command line through `python -c "import greete
 <!-- A list of items for student to follow -->
 
 - [x] You will mark things you did in this list, like this one.
-- [ ] Go over on this README file, entirely.
-- [ ] Go over the links in [the things you need to prepared for](#concepts--tools) section.
-- [ ] Review the [commit history](https://github.com/spu-python-203/welcome/commits/main) on this repository.
-- [ ] Try the grading function in [grading](#grading) section.
-- [ ] [Participate](https://github.com/spu-python-203/welcome/issues) in final project discussion!
-- [ ] Follow steps in [assignments](#assignments), and push your final changes to GitHub, to your repository. 
+- [x] Go over on this README file, entirely.
+- [x] Go over the links in [the things you need to prepared for](#concepts--tools) section.
+- [x] Review the [commit history](https://github.com/spu-python-203/welcome/commits/main) on this repository.
+- [x] Try the grading function in [grading](#grading) section.
+- [x] [Participate](https://github.com/spu-python-203/welcome/issues) in final project discussion!
+- [x] Follow steps in [assignments](#assignments), and push your final changes to GitHub, to your repository. 
 
 ## Conclusion
 
