@@ -84,7 +84,9 @@ The items that student is responsible for this class is the following. Students 
 | Participation | 10 %       |
 | Bonus (Maybe) | 10 %       |
 
-<sub> Below list is subject to change. </sub>
+Partication means attending to discussions in Blackboard, class sessions, etc.
+
+<sub> Above list is subject to change. </sub>
 
 ## Grade Scale
 
@@ -128,9 +130,7 @@ During the term of this course, following materials will be covered.
 
 ## Attendence Policy
 
-Student missing more than 2 classes will be withdrawn with an F grade. It is the responsibility
-of student to notify the instructor well in advance. In case of medical emergency, student
-should update instructor via email.
+Due to COVID-19, there is no restriction on attending the lecture, however, attending the classes will benefit on your learning curve a lot more instead of watching lectures online. As said, we record the classes and you can always revisit or watch previous classes. Links will be uploaded to Blackboard.
 
 ## Academic Honesty and Student Conduct
 
